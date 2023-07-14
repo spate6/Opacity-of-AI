@@ -12,5 +12,3 @@ Transparency is essential, especially when dealing with technologies that are no
 To further emphasize this point, consider the unsettling example of an autonomous vehicle making a wrong maneuver that could harm both passengers and pedestrians. Can we truly trust opaque AI, even if its algorithm improves by learning from human casualties?
 
 In conclusion, the opacity of AI poses significant ethical challenges. Complete transparency must be ensured for any technology that lacks robustness and has the potential to make mistakes. Without a thorough understanding of the inner workings of AI algorithms, we cannot place our trust in systems that have the capacity to impact lives and shape our future.
-
-Can we still put our trust in opaque AI even if its algorithm improves by learning from human casualties?
